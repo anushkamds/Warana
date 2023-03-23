@@ -11,7 +11,7 @@
     <name>warana</name>
 
     <properties>
-        <spring.version>3.2.6.RELEASE</spring.version>
+        <spring.version>5.2.23.RELEASE</spring.version>
         <spring.security.version>3.2.0.RELEASE</spring.security.version>
         <warana.root>${warana.resources.root}</warana.root>
     </properties>
